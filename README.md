@@ -2,14 +2,6 @@
 
 Hallo ich bin **Andreas**.
 
-- Ich
-- komme 
-- aus 
-- Köln.
-
-Wie geht es dir?
-
-[Mir geht es gut!](https://www.google.com)
 <!--
 **heinenandreas/heinenandreas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
